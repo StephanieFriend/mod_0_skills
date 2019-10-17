@@ -1,0 +1,33 @@
+1 find interest in computer software
+  1.1 determine if you find this interest more intriguing than your current career
+    1.1.1 if so move forward with plans to attend school
+2 find a school
+  2.1 research schools around your area to find the best fit for you
+    2.1.1 look for ratings and reviews
+    2.1.2 look for location and length of program
+    2.1.3 look at the graduation benefits
+  2.2 choose your school based off your criteria
+    2.2.1 chose Turing
+3 apply for Turing
+  3.1 look online for application requirements
+    3.1.1 submit application request
+    3.1.2 take the on-line assessment
+  3.2 wait for a call from Turing
+  3.3 schedule an in person interview
+    3.3.1 answer basic logic questions
+    3.3.2 get to know your interviewer
+    3.3.3 take a tour of the facility
+  3.4 wait to hear from Turing
+    3.4.1 hear from Turing you are accepted
+4 financial aid
+  4.1 look over list of lenders that was provided to you
+  4.2 apply to which lender you feel will best benefit you
+    4.2.1 when you get the results select which payment option best suits you
+  4.3 inform Turing you have completed your financial aid
+5 post acceptance process
+  5.1 set up a conference call with a staff member
+  5.2 submit your current resume
+  5.3 sign e-docs for Turing
+  5.4 pay your deposit
+    5.4.1 here you can order your laptop
+  5.5 choose a start date and a mod0 date
