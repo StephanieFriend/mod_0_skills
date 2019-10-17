@@ -1,0 +1,15 @@
+Orange Juice (Object)
+
+Attributes:
+Alcoholic False
+Cold True
+ContainerType "Glass cup"
+CurrentVolume 16
+Name "Orange Juice"
+
+Methods:
+Add Vodka (Change Boolean to true)
+Keep on ice (Keep the Boolean set to true)
+Request to go cup (Change ContainerType "Glass cup" to "Plastic cup")
+Drink half (Take CurrentVolume and divide by half = 8)
+Adding Vodka (Changes the Name "Orange juice" to "Screwdriver")
