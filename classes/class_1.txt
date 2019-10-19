@@ -1,14 +1,14 @@
 Food (Class)
 
 Attributes:
-Ingredients (Array)
-Type (String)
-Name (String)
-Hot (Boolean)
-Calories (Integer)
+ingredients (array)
+type (string)
+name (string)
+hot (boolean)
+calories (integer)
 
 Methods:
-ChangeIngredient (add or subtract from Ingredients Array)
-PutInOven (change Hot Boolean to true)
-ChangePortionSize (add or subtract to the Calories Integer)
-AddSugar (change Type to dessert)
+changeIngredient (add or subtract from ingredients array)
+putInOven (change hot boolean to True)
+changePortionSize (add or subtract to the calories integer)
+addSugar (change type to dessert)
