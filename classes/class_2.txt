@@ -1,15 +1,15 @@
 Beverage (Class)
 
 Attributes:
-Alcoholic (Boolean)
-Cold (Boolean)
-ContainerType (String)
-CurrentVolume (Integer)
-Name (String)
+alcoholic (boolean)
+cold (boolean)
+containerType (string)
+currentVolume (integer)
+name (string)
 
 Methods:
-AddAlcohol (Change Alcoholic Boolean to true)
-AddIce (Change Cold Boolean to true)
-RequestToGo (Change ContainerType)
-Drink (Subtract from CurrentVolume)
-ChangeIngredient (Changes the name of beverage)
+addAlcohol (change alcoholic boolean to True)
+addIce (change cold boolean to True)
+requestToGo (change containerType to "plastic cup")
+drink (subtract from currentVolume)
+changeIngredient (changes the name of beverage)
