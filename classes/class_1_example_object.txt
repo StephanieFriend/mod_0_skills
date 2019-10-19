@@ -1,14 +1,14 @@
 Croissant (Object)
 
 Attributes:
-Ingredients [yeast-leaved dough, salted butter]
-Type "Baked goods"
-Name "Croissant"
-Hot True
-Calories 196
+ingredients ["yeast-leaved dough", "salted butter"]
+type "Baked goods"
+name "Croissant"
+hot True
+calories 196
 
 Methods:
-Changed to unsalted butter (subtract salted butter and add unsalted butter)
-Keep in a warmer to stay hot (the boolean will stay true)
-Give one croissant per serving instead of two (Calories divided by two = 98)
-Add sugar as topping (change Type from "Baked goods" to "Dessert")
+changeIngredient (subtract "salted butter" and add "unsalted butter" to the ingredients array)
+putInOven (the boolean will stay True)
+changePortionSize (serve half the original portion. calories divided by 2 = 98)
+addSugar (change type from "Baked goods" to "Dessert")
