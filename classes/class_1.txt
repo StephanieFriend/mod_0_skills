@@ -11,4 +11,4 @@ Methods:
 changeIngredient (add or subtract from ingredients array)
 putInOven (change hot boolean to True)
 changePortionSize (add or subtract to the calories integer)
-addSugar (change type to dessert)
+addSugar (change type to "dessert")
